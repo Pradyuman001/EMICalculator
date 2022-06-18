@@ -19,8 +19,16 @@ This smart and handy app is one stop solution to your financial calculation . Yo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p float="center">
+  
+<img src="https://user-images.githubusercontent.com/101545076/174426323-02efd281-d22b-466a-b1d3-8980afdb9ed9.jpg" width=25% height=35%>
+  
+<img src="https://user-images.githubusercontent.com/101545076/174426322-bf82b5b2-50aa-4e27-af0f-19eaad058f95.jpg" width=25% height=35%>
+  
+<img src="https://user-images.githubusercontent.com/101545076/174426320-fec14ade-0ade-4734-82da-fa9bc8f87f0c.jpg" width=25% height=35%>
+    
 
+</p>
 
 ## Feedback
 
@@ -45,4 +53,3 @@ Basic C Language, Basic C++ , Core JAVA , Advance Android
 ## Support
 
 For support, email pradyumangodhani007@gmail.com
-
